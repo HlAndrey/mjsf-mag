@@ -47,7 +47,7 @@
 </template>
 
 <script>
-  import {Task} from '../models/task';
+  import {Task} from '../models/tasks';
   export default {
     name: "ToDo",
     props: {},
